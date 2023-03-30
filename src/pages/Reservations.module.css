@@ -1,0 +1,31 @@
+.addButton, deleteButton {
+	display: inline-block;
+	width: 30px;
+	height: 31px;
+	line-height: 27px;
+	text-align: center;
+	background-color: gray;
+	border-radius: 50%;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.deleteButton {
+	cursor: pointer;
+	display: inline-block;
+	width: 70px;
+	height: 32px;
+	line-height: 26px;
+	text-align: center;
+	background-color: gray;
+	border-radius: 45%;
+	color: white;
+	text-decoration: none;
+}
+
+.reservation {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
